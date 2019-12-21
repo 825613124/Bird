@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Fly Bird:jar5">
+    <output-path>$PROJECT_DIR$/out/artifacts/Fly_Bird_jar5</output-path>
+    <root id="archive" name="Fly Bird.jar">
+      <element id="module-output" name="Fly Bird" />
+    </root>
+  </artifact>
+</component>
